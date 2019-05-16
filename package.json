@@ -1,0 +1,25 @@
+{
+  "name": "bliss-makeover",
+  "version": "1.0.0",
+  "description": "E-commerse ecommerse makeup women beautiful buy order online ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "E-commerse",
+    "ecommerse",
+    "makeup",
+    "women",
+    "beautiful",
+    "buy",
+    "order",
+    "online"
+  ],
+  "author": "Mohammed Alkabsh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
